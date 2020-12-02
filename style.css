@@ -1,0 +1,17 @@
+:root {
+  --accent: #b9ebe0;
+  --accent-dark: #79c4b3;
+  --btn-color: #74b5a6;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  height: 100%;
+  font-size: 1em;
+}
